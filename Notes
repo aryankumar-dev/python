@@ -1,2 +1,23 @@
 //python3 to go inside shell 
-// we can test pythone code in shell
+// we can test pythone code in 
+
+
+//Mutable Database - refrence in memory 
+(inka memory refernce chnage ho skat hai)
+
+->list
+->set 
+->Dictionary
+->Bytearray
+->Array
+
+//IMMutable Database - WE check it by refrence in memory 
+(inka memory refernce chnage ni ho skat )
+
+->Integer
+->Flote
+->Boolian
+->String
+->tuples
+->Frozen set
+->bytes
